@@ -25,6 +25,3 @@ La comparación de los proveedores de alojamiento de repositorios más populares
 En resumen, el documento adjunto proporciona información detallada sobre GitHub y su relación con la infraestructura europea OpenAIRE, así como una comparación de los proveedores de alojamiento de repositorios más populares y recursos adicionales útiles. Este documento es una herramienta valiosa para aquellos que desean utilizar GitHub y Zenodo en el contexto de la infraestructura OpenAIRE. 
 
 Para más detalles, se recomienda revisar el documento adjunto.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/4466086/924bbf66-4986-4ed3-aa35-fc1c6d98941d/D3.7 PoliRural GitHub Account_ext.pdf
