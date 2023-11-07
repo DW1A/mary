@@ -46,7 +46,7 @@ _Una de las principales diferencias entre el Inspector de página de Firefox y l
 
 ![Imagen3](https://github.com/DW1A/mary/assets/102425935/9bdb4b78-c176-44f8-9e76-6a27bc2bd8a1)
 
-
+HOLAAAAA
 
 
 
