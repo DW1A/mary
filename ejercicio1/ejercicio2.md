@@ -12,7 +12,8 @@
 
 ### A.
 **-Con Chrome**
-![Imagen2](https://github.com/DW1A/mary/assets/102425935/e999a790-af5b-40e7-b7a2-7d9887fa4e65)
+![Captura de pantalla 2023-11-07 110348](https://github.com/DW1A/mary/assets/102425935/44ea9777-20df-47b5-a8b2-6ec3422c8f48)
+
 
 En Chrome, la herramienta de inspección de código se llama "Herramientas para desarrolladores" y se puede acceder a ella haciendo clic con el botón derecho del ratón en cualquier parte de una página web y seleccionando "Inspeccionar". 
 
