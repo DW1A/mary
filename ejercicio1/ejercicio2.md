@@ -21,8 +21,7 @@ En Chrome, la herramienta de inspección de código se llama "Herramientas para 
 
 En Firefox, la herramienta de inspección de código se llama "Inspector de página" y se puede acceder a ella haciendo clic con el botón derecho del ratón en cualquier parte de una página web y seleccionando "Inspeccionar elemento".
 
-_Una de las principales diferencias entre el Inspector de página de Firefox y las Herramientas para desarrolladores de Chrome es que el Inspector de página de Firefox tiene una función de "Captura de pantalla" que permite a los desarrolladores tomar capturas de pantalla de una página web y guardarlas como archivos de imagen. Además, el Inspector de página de Firefox tiene una función de "Modo de diseño" que permite a los desarrolladores ver cómo se verá una página web en diferentes tamaños de pantalla._
-![InkedCaptura de pantalla 2023-11-06 213337_LI2](https://github.com/DW1A/mary/assets/102425935/6074779b-3342-4256-bdb1-37388c54b3bb)
+_Una de las principales diferencias entre el Inspector de página de Firefox y las Herramientas para desarrolladores de Chrome en Chrome, es que la consola de JavaScript se encuentra en la pestaña "Consola", mientras que en Safari, se encuentra en la pestaña "Depurador". Además, Chrome tiene una herramienta de auditoría de página web que permite a los desarrolladores evaluar el rendimiento y la accesibilidad de una página web, mientras que Safari tiene una herramienta de registro de red que permite a los desarrolladores ver las solicitudes y respuestas de red de una página web_
 
 ### B.
 
