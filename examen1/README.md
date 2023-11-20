@@ -1,4 +1,6 @@
 # Tendencias actuales en el área de los entornos de desarrollo
+![entornos-de-desarrollo-1](https://github.com/DW1A/mary/assets/102425935/26051419-88ea-46f4-a9c2-f10cae37d9fe)
+
 Las tendencias actuales en el área de los entornos de desarrollo incluyen:
 - Crecimiento del sector de las tecnologías de la información (TI).
 - Uso de plataformas de desarrollo de "low-code" y "no-code" para agilizar el proceso de desarrollo.
