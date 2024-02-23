@@ -1,4 +1,4 @@
-Mi curriculum:
+Mi curriculum
 
 https://maryalmela10.github.io/almela/
 
